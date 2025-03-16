@@ -1,4 +1,4 @@
-# Album2Go
+# MPD-ALBUM2GO
 
 [![MPD](https://img.shields.io/badge/MPD-compatible-brightgreen)](https://www.musicpd.org/)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
